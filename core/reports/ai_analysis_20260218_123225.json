@@ -1,0 +1,9 @@
+{
+  "trends": {
+    "error": "No trading data available"
+  },
+  "predictions": null,
+  "recommendations": {
+    "error": "No trading data available"
+  }
+}

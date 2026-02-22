@@ -1,0 +1,14 @@
+{
+  "tax_system": "US",
+  "system_name": "United States (IRS)",
+  "currency": "USD",
+  "total_proceeds": 0,
+  "total_cost_basis": 0,
+  "total_gain_loss": 0,
+  "short_term_gain": 0,
+  "long_term_gain": 0,
+  "short_term_count": 0,
+  "long_term_count": 0,
+  "estimated_tax": 0,
+  "transactions": []
+}
