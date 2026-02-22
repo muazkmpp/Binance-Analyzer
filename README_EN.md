@@ -1,8 +1,8 @@
-# 📊 Crypto Fund Manager
+# 📊 Binance Analizer
 
 ## 🎯 Overview
 
-**Crypto Fund Manager** is an integrated system for managing and analyzing cryptocurrency investments with full Binance platform support. The system provides advanced tools for calculating profits and losses using the FIFO method, portfolio analysis, and generating detailed reports.
+**Binance Analizer** is an integrated system for managing and analyzing cryptocurrency investments with full Binance platform support. The system provides advanced tools for calculating profits and losses using the FIFO method, portfolio analysis, and generating detailed reports.
 
 ## ✨ Key Features
 
